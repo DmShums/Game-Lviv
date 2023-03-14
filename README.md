@@ -1,6 +1,6 @@
 # Game&Lviv
 
-##Wanderer Game
+## Wanderer Game
 
 One of the program modules (main.py) was found on one of the resources for learning the Python programming language. After getting acquainted with this module, it became clear that this is the main module of the wanderer game.
 
@@ -17,7 +17,7 @@ If the player takes an item, it disappears from the room and appears in the play
 python3 main.py
 ```
 
-##Wanderer Game in Lviv
+## Wanderer Game in Lviv
 
 Wandering through the streets of Lviv, you can meet students, gentlemen, rogues, misfits, batyars and slackers. On the street you can find various items that you can use to treat someone or protect yourself. If you managed to walk from Kozelnytska to Krakivska and back, you win. Otherwise, the game ends with your defeat.
 
